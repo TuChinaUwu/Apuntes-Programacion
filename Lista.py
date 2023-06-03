@@ -1,4 +1,4 @@
-#Crear lista. CUAQUER WEA CON "= []" SERÁ CONSIDERADO LISTA.
+    #Crear lista. CUAQUER WEA CON "= []" SERÁ CONSIDERADO LISTA.
 lista = [1, 5, 25, 100, 500]
 print("Inicial ", lista)
 
